@@ -24,7 +24,8 @@
     "build": "babel --optional runtime,es7.objectRestSpread -d lib/ src/"
   },
   "files": [
-    "lib"
+    "lib",
+    "src"
   ],
   "author": "Shinichi Tomita <shinichi.tomita@gmail.com>",
   "license": "MIT",
